@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.bg{
+    background: linear-gradient(rgba(0, 0, 0,0.7),rgb(105, 43, 177)),url(../playlist/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
+.logo{
+        width: 80px;
+        padding: 5px 25px;
+        opacity: 0.842;
+    
+}
+.view{
+    width: 60%;
+    position: absolute;
+    top: 35%;
+}
+.heading{
+    margin-left: 12%;
+}
+.heading h1{
+    font-size: 90px;
+    color: rgba(69, 202, 98, 0.842);
+    letter-spacing: 1px;
+    
+}
+
+.music{
+    float: right;
+    margin-right: 3%;
+    display: table-column-group;
+    
+  
+}
+
+
+
+.music p{
+    
+    color: rgba(216, 114, 30, 0.932);
+    font-size: 23px;
+    font-weight: 200;
+    display: flex;
+    align-items: center;
+    line-height: 32px;
+    
+}
+.music p img{
+    margin-left: 2%;
+    
+}
+#icon{
+    width: 50px;
+    cursor: pointer;
+    
+}
+
+#icon0{
+    width: 50px;
+    cursor: pointer;
+}
+
+#icon1{
+    width: 50px;
+    cursor: pointer;
+}
+
+#icon2{
+    width: 50px;
+    cursor: pointer;
+}
+
+#icon3{
+    width: 50px;
+    cursor: pointer;
+}
+
+#icon4{
+    width: 50px;
+    cursor: pointer;
+}
+
+#icon5{
+    width: 50px;
+    cursor: pointer;
+}
+
+#icon6{
+    width: 50px;
+    cursor: pointer;
+}
+
+#icon7{
+    width: 50px;
+    cursor: pointer;
+}
+
+#icon8{
+    width: 50px;
+    cursor: pointer;
+}
+
+#icon9{
+    width: 50px;
+    cursor: pointer;
+}
+
+#icon10{
+    width: 50px;
+    cursor: pointer;
+}
+
+
+
