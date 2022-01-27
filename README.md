@@ -1,5 +1,5 @@
 # Playlist
-*I created this web page using basics of HTML5, CSS3 and Js.
+I created this web page using basics of HTML5, CSS3 and Js.
 
 ### Here's a look on the skeleton/html file that includes css for alingning items
 
@@ -10,4 +10,12 @@
 ![preview00](https://user-images.githubusercontent.com/96630482/151365063-fa5b5de8-109d-4013-ab92-da129bcfe7ef.jpg)
 
 ### Final preview
+
+![preview](https://user-images.githubusercontent.com/96630482/151365510-74f4fddc-315e-4945-8eb9-be7f6dc8010e.jpg)
+
+###LIST
+
+
+
+
 
