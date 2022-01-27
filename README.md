@@ -13,10 +13,6 @@ I created this web page using basics of HTML5, CSS3 and Js.
 
 ![preview](https://user-images.githubusercontent.com/96630482/151365510-74f4fddc-315e-4945-8eb9-be7f6dc8010e.jpg)
 
-### LIST
-
-![list](https://user-images.githubusercontent.com/96630482/151367184-8555cf58-8471-4ef2-93c6-e3bd12dfbe76.jpg)
-
 
 
 
