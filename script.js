@@ -152,3 +152,5 @@ var song3 = document.getElementById("song3");
             
         }
     }
+
+console.log("paused")
